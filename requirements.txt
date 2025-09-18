@@ -1,0 +1,6 @@
+# War Card Game Requirements
+# This project uses only Python standard library
+# No external dependencies required
+
+# Python version requirement
+# python>=3.6
