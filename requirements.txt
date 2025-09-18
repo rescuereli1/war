@@ -1,0 +1,8 @@
+# War Card Game Requirements
+# This project uses only Python standard library
+# Python 3.6+ required
+
+# No external dependencies needed
+# All functionality is implemented using built-in modules:
+# - random (for shuffling)
+# - typing (for type hints)
